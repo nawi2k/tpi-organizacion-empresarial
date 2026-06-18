@@ -1,4 +1,3 @@
-import sys
 import random
 
 # Definición de los Estados del Chatbot
